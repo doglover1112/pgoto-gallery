@@ -1,6 +1,7 @@
 img{
   width:450px;
   height:400px;
+  object-fit: cover;
 }
 .title {
   padding-left: 530px;
